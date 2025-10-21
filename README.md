@@ -1,1 +1,1 @@
-# Jeu de simulation de course de chevaux en trot attelé
+# Jeu de simulation de course de chevaux aux dés en trot attelé

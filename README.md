@@ -1,1 +1,1 @@
-# Jeu de simulation de cours de chevaux en tro attelé
+# Jeu de simulation de course de chevaux en trot attelé
